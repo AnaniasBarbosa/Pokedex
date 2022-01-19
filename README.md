@@ -10,5 +10,5 @@ Ainda será implementado alguns recursos como:
 --------------------------------------------------------------------------------
 Este projeto faz uso de Promisses, APIs, javascript puro, HTML5 e CSS.   
 Não foi utilizado nenhum framework para desenvolvimento.   
-Foi desenvolvido com ajuda de um tutorial e minha intenção era por em prática o 
+
 meu aprendizado em APIs e Promisses.
